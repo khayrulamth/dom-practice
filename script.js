@@ -58,6 +58,7 @@ function totalCost() {
 }
 
 // Booking success block
+
 +document.querySelector('.book-now').addEventListener('click', function () {
     const fryingFrom = document.querySelector('.flying-from').value;
     const fryingTo = document.querySelector('.flying-to').value;
